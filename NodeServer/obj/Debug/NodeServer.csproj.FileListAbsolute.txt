@@ -1,0 +1,9 @@
+D:\Проекты\windows\NodeServer\NodeServer\obj\Debug\NodeServer.csproj.AssemblyReference.cache
+D:\Проекты\windows\NodeServer\NodeServer\obj\Debug\NodeServer.MainForm.resources
+D:\Проекты\windows\NodeServer\NodeServer\obj\Debug\NodeServer.csproj.GenerateResource.cache
+D:\Проекты\windows\NodeServer\NodeServer\bin\Debug\NodeServer.exe
+D:\Проекты\windows\NodeServer\NodeServer\bin\Debug\NodeServer.pdb
+D:\Проекты\windows\NodeServer\NodeServer\obj\Debug\NodeServer.Properties.Resources.resources
+D:\Проекты\windows\NodeServer\NodeServer\obj\Debug\NodeServer.csproj.CoreCompileInputs.cache
+D:\Проекты\windows\NodeServer\NodeServer\obj\Debug\NodeServer.exe
+D:\Проекты\windows\NodeServer\NodeServer\obj\Debug\NodeServer.pdb

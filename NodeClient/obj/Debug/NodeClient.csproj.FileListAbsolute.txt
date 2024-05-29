@@ -1,0 +1,9 @@
+D:\Проекты\windows\NodeServer\NodeClient\bin\Debug\NodeClient.exe
+D:\Проекты\windows\NodeServer\NodeClient\bin\Debug\NodeClient.pdb
+D:\Проекты\windows\NodeServer\NodeClient\obj\Debug\NodeClient.csproj.AssemblyReference.cache
+D:\Проекты\windows\NodeServer\NodeClient\obj\Debug\NodeClient.MainForm.resources
+D:\Проекты\windows\NodeServer\NodeClient\obj\Debug\NodeClient.Properties.Resources.resources
+D:\Проекты\windows\NodeServer\NodeClient\obj\Debug\NodeClient.csproj.GenerateResource.cache
+D:\Проекты\windows\NodeServer\NodeClient\obj\Debug\NodeClient.csproj.CoreCompileInputs.cache
+D:\Проекты\windows\NodeServer\NodeClient\obj\Debug\NodeClient.exe
+D:\Проекты\windows\NodeServer\NodeClient\obj\Debug\NodeClient.pdb
